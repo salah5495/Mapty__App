@@ -1,2 +1,2 @@
 # Mapty__App
-## A simple javaScript App  to map your workouts
+## A simple javaScript App  that map your workouts
